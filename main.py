@@ -17,3 +17,6 @@ link = input("Put your link here: ")
 
 if __name__ == "__main__":
     download(link)
+
+
+# TODO: create a frontend with pyqt
